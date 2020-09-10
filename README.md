@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is deployed at https://silly-heisenberg-9d5b93.netlify.app/
+
+It is a compact version of Youtube using custom Hooks and functional components.
+
 ## Available Scripts
 
 In the project directory, you can run:
