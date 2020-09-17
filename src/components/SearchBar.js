@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const SearchBar = ({ onFormSubmit }) => {
     const [term, setTerm] = useState('');
-    //only one line callback, so we can put it inside the JSX itself
+    //Only one line callback, so we can put it inside the JSX itself
     /* const onInputChange = (event) => {
         setTerm(event.target.value);
     } */
