@@ -6,7 +6,7 @@ import useVideos from '../hooks/useVideos';
 
 const App = () => {
     const [selectedVideo, setSelectedVideo] = useState(null);
-    //Custom Hook - returns array
+    //Custom Hook -returns array
     const [videos, search] = useVideos('plants');
 
     useEffect(() => {
